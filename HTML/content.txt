@@ -1,0 +1,50 @@
+ntro
+Chapter 1: Introduction
+Chapter 2: Head Element
+Chapter 3: Text Basics
+Chapter 4: List Types
+Chapter 5: Add Links
+Chapter 6: Add Images
+Chapter 7: Semantic Tags
+Chapter 8: Create Tables 
+Chapter 9: Forms & Inputs
+Chapter 10: HTML Project
+
+
+
+recommended extension
+1. on chrome  https:// 
+chrome.google.com/webstore
+
+    - in the extension tab search for dark new tab and add to chrome
+
+
+2. VS extensions
+    - Prettier to format out code
+    -vscode-icons
+    -github theam
+    -Live Server is must
+
+3. to validate our HTML
+    - 
+validator.w3.org
+
+    
+4. Image resources
+    - placeholder image generator 
+placeholder.com
+
+    - 
+unsplash.com
+  free image
+    - 
+Gratisography.com
+
+    -pixabay.com
+    - 
+irfanView.com
+
+    - 
+tinypng.com
+ 
+15:49
